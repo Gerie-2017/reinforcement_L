@@ -1,5 +1,5 @@
 # reinforcement_L
-documentation repo about RL and related
+Documentation repo about RL and related
 
 
 
