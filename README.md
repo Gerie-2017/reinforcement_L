@@ -1,4 +1,4 @@
-# reinforcement_L
+# Reinforcement Learning
 Documentation repo about RL and related
 
 
